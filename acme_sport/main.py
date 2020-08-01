@@ -3,9 +3,9 @@ import requests
 import collections
 
 from pprint import pprint
-from settings import SECRET_KEY,SCOREBOARD_URL,TEAMRANKING_URL
-from Scorecard import ScoreCard
-from APIHelper import APIHelper
+from .settings import SECRET_KEY,SCOREBOARD_URL,TEAMRANKING_URL
+from .Scorecard import ScoreCard
+from .APIHelper import APIHelper
 
 
 def mapper(scoreboard, team_rankings:list):

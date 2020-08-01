@@ -1,6 +1,6 @@
 import requests
 import traceback
-from settings import SECRET_KEY,SCOREBOARD_URL,TEAMRANKING_URL
+from .settings import SECRET_KEY,SCOREBOARD_URL,TEAMRANKING_URL
 
 class APIHelper:
     @staticmethod
