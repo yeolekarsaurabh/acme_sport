@@ -1,8 +1,8 @@
 class ScoreCard:
     def __init__(self, scorecard, home_team, away_team):
         self.event_id = scorecard.get('event_id')
-        self.event_date = scorecard.get('event_date').split(' ')[0] # TODO: DD-MM-YYYY
-        self.event_time = scorecard.get('event_date').split(' ')[1] # TODO: HH:MM
+        self.event_date = scorecard.get('event_date').split(' ')[0]
+        self.event_time = scorecard.get('event_date').split(' ')[1]
         self.away_team_id = scorecard.get('away_team_id')
         self.away_nick_name = scorecard.get('away_nick_name')
         self.away_city = scorecard.get('away_city')

@@ -9,8 +9,9 @@ from .APIHelper import APIHelper
 
 
 def mapper(scoreboard, team_rankings:list):
-    """ create a map, fn which will search for ranking from team_rankings
-        and take the scoreboard record and the ranking to create ScoreCard instance.
+    """ 
+    This function creates a mapper which searchs ranks from teamranking
+    and takes scoreboard record and created ScoreCard instance
     """
     acc = []
     for score in scoreboard:

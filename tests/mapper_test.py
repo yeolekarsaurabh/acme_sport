@@ -3,6 +3,9 @@ from acme_sport.main import mapper
 from acme_sport.Scorecard import ScoreCard
 
 def test_mapper_creates_instances():
+    """
+    This is test function which checks if the data is mapped as expected.
+    """
     with open('tests/data/expected_leaderboard.json') as file:
         expected_leaderboard = json.load(file)
 
