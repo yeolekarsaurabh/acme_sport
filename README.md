@@ -1,6 +1,15 @@
 ##  PROBLEM STATEMENT: ACME Sport ![js-standard-style](https://img.shields.io/badge/Python-brightgreen.svg?style=flat)
 ACME Sports, wants to develop a dynamic process to return a list of NFL events in JSON format. It’s dynamic because the process will pull the NFL event data from a remote API that is frequently updated.
 
+## Demo
+API is deployed on Heroku (https://acme-sport.herokuapp.com).
+
+### Routes:
+- `/getScoreData/{fromDate}/{toDate}/NFL`
+    - `fromDate` and `toDate` are required in `YYYY-MM-DD` format.
+    - Sample API Call:
+    https://acme-sport.herokuapp.com/getScoreData/2020-01-12/2020-01-19/NFL
+
 ## Input and Output
 ### Input
 The API endpoint URLs with the NFL data are below. Please assume that the API provides no other functionality other than to return the data in JSON format
