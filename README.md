@@ -1,14 +1,12 @@
-##  PROBLEM STATEMENT : ACME Sport ![js-standard-style](https://img.shields.io/badge/Python-brightgreen.svg?style=flat)
- ACME Sports, wants to develop a dynamic process to return a list of NFL events in JSON format. It’s dynamic because the process will pull the NFL event data from a remote API that is frequently updated.
-
-
+##  PROBLEM STATEMENT: ACME Sport ![js-standard-style](https://img.shields.io/badge/Python-brightgreen.svg?style=flat)
+ACME Sports, wants to develop a dynamic process to return a list of NFL events in JSON format. It’s dynamic because the process will pull the NFL event data from a remote API that is frequently updated.
 
 ## Input and Output
 ### Input
 The API endpoint URLs with the NFL data are below. Please assume that the API provides no other functionality other than to return the data in JSON format
-## 
+
 Scoreboard: /scoreboard/{league}/{start_date}/{end_date}
-##
+
 https://delivery.chalk247.com/scoreboard/NFL/2020-01-12/2020-01-20.json?api_key=xxyzz
 
 Team Rankings: /team_rankings/{league}
