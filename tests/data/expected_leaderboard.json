@@ -1,0 +1,290 @@
+[
+    {
+        "team_id": "48",
+        "team": "Baltimore",
+        "rank": "1",
+        "last_week": "1",
+        "points": "65.186",
+        "modifier": "0.540",
+        "adjusted_points": "35.200"
+    },
+    {
+        "team_id": "63",
+        "team": "Kansas City",
+        "rank": "2",
+        "last_week": "2",
+        "points": "38.544",
+        "modifier": "0.550",
+        "adjusted_points": "21.199"
+    },
+    {
+        "team_id": "70",
+        "team": "New Orleans",
+        "rank": "3",
+        "last_week": "5",
+        "points": "39.322",
+        "modifier": "0.462",
+        "adjusted_points": "18.186"
+    },
+    {
+        "team_id": "58",
+        "team": "San Francisco",
+        "rank": "4",
+        "last_week": "3",
+        "points": "25.858",
+        "modifier": "0.600",
+        "adjusted_points": "15.515"
+    },
+    {
+        "team_id": "56",
+        "team": "Dallas",
+        "rank": "5",
+        "last_week": "7",
+        "points": "27.748",
+        "modifier": "0.433",
+        "adjusted_points": "12.024"
+    },
+    {
+        "team_id": "44",
+        "team": "New England",
+        "rank": "6",
+        "last_week": "4",
+        "points": "19.073",
+        "modifier": "0.570",
+        "adjusted_points": "10.872"
+    },
+    {
+        "team_id": "62",
+        "team": "Tennessee",
+        "rank": "7",
+        "last_week": "11",
+        "points": "23.031",
+        "modifier": "0.467",
+        "adjusted_points": "10.748"
+    },
+    {
+        "team_id": "49",
+        "team": "Atlanta",
+        "rank": "8",
+        "last_week": "8",
+        "points": "16.882",
+        "modifier": "0.529",
+        "adjusted_points": "8.923"
+    },
+    {
+        "team_id": "64",
+        "team": "LA Rams",
+        "rank": "9",
+        "last_week": "14",
+        "points": "13.017",
+        "modifier": "0.556",
+        "adjusted_points": "7.232"
+    },
+    {
+        "team_id": "57",
+        "team": "Minnesota",
+        "rank": "10",
+        "last_week": "6",
+        "points": "11.939",
+        "modifier": "0.478",
+        "adjusted_points": "5.704"
+    },
+    {
+        "team_id": "68",
+        "team": "Tampa Bay",
+        "rank": "11",
+        "last_week": "9",
+        "points": "11.131",
+        "modifier": "0.489",
+        "adjusted_points": "5.442"
+    },
+    {
+        "team_id": "39",
+        "team": "Green Bay",
+        "rank": "12",
+        "last_week": "12",
+        "points": "12.938",
+        "modifier": "0.390",
+        "adjusted_points": "5.046"
+    },
+    {
+        "team_id": "40",
+        "team": "Philadelphia",
+        "rank": "13",
+        "last_week": "16",
+        "points": "10.592",
+        "modifier": "0.450",
+        "adjusted_points": "4.766"
+    },
+    {
+        "team_id": "54",
+        "team": "NY Jets",
+        "rank": "14",
+        "last_week": "22",
+        "points": "7.482",
+        "modifier": "0.444",
+        "adjusted_points": "3.325"
+    },
+    {
+        "team_id": "53",
+        "team": "Buffalo",
+        "rank": "15",
+        "last_week": "10",
+        "points": "3.876",
+        "modifier": "0.550",
+        "adjusted_points": "2.132"
+    },
+    {
+        "team_id": "46",
+        "team": "Pittsburgh",
+        "rank": "16",
+        "last_week": "13",
+        "points": "0.655",
+        "modifier": "0.489",
+        "adjusted_points": "0.320"
+    },
+    {
+        "team_id": "47",
+        "team": "LA Chargers",
+        "rank": "17",
+        "last_week": "15",
+        "points": "-1.338",
+        "modifier": "0.588",
+        "adjusted_points": "-0.552"
+    },
+    {
+        "team_id": "60",
+        "team": "Cleveland",
+        "rank": "18",
+        "last_week": "19",
+        "points": "-7.111",
+        "modifier": "0.525",
+        "adjusted_points": "-3.378"
+    },
+    {
+        "team_id": "52",
+        "team": "Seattle",
+        "rank": "19",
+        "last_week": "18",
+        "points": "-7.691",
+        "modifier": "0.556",
+        "adjusted_points": "-3.418"
+    },
+    {
+        "team_id": "43",
+        "team": "Chicago",
+        "rank": "20",
+        "last_week": "23",
+        "points": "-7.163",
+        "modifier": "0.500",
+        "adjusted_points": "-3.581"
+    },
+    {
+        "team_id": "42",
+        "team": "Houston",
+        "rank": "21",
+        "last_week": "17",
+        "points": "-13.338",
+        "modifier": "0.550",
+        "adjusted_points": "-6.002"
+    },
+    {
+        "team_id": "65",
+        "team": "Miami",
+        "rank": "22",
+        "last_week": "25",
+        "points": "-11.770",
+        "modifier": "0.444",
+        "adjusted_points": "-6.539"
+    },
+    {
+        "team_id": "67",
+        "team": "Indianapolis",
+        "rank": "23",
+        "last_week": "20",
+        "points": "-13.711",
+        "modifier": "0.522",
+        "adjusted_points": "-6.551"
+    },
+    {
+        "team_id": "66",
+        "team": "Las Vegas",
+        "rank": "24",
+        "last_week": "27",
+        "points": "-17.339",
+        "modifier": "0.467",
+        "adjusted_points": "-9.248"
+    },
+    {
+        "team_id": "61",
+        "team": "Denver",
+        "rank": "25",
+        "last_week": "21",
+        "points": "-16.674",
+        "modifier": "0.444",
+        "adjusted_points": "-9.263"
+    },
+    {
+        "team_id": "45",
+        "team": "Arizona",
+        "rank": "26",
+        "last_week": "24",
+        "points": "-21.350",
+        "modifier": "0.550",
+        "adjusted_points": "-9.608"
+    },
+    {
+        "team_id": "55",
+        "team": "NY Giants",
+        "rank": "27",
+        "last_week": "26",
+        "points": "-18.001",
+        "modifier": "0.456",
+        "adjusted_points": "-9.800"
+    },
+    {
+        "team_id": "41",
+        "team": "Cincinnati",
+        "rank": "28",
+        "last_week": "29",
+        "points": "-26.515",
+        "modifier": "0.567",
+        "adjusted_points": "-11.490"
+    },
+    {
+        "team_id": "50",
+        "team": "Detroit",
+        "rank": "29",
+        "last_week": "31",
+        "points": "-25.756",
+        "modifier": "0.467",
+        "adjusted_points": "-13.737"
+    },
+    {
+        "team_id": "69",
+        "team": "Jacksonville",
+        "rank": "30",
+        "last_week": "32",
+        "points": "-26.649",
+        "modifier": "0.467",
+        "adjusted_points": "-14.213"
+    },
+    {
+        "team_id": "51",
+        "team": "Washington",
+        "rank": "31",
+        "last_week": "28",
+        "points": "-36.411",
+        "modifier": "0.470",
+        "adjusted_points": "-19.298"
+    },
+    {
+        "team_id": "59",
+        "team": "Carolina",
+        "rank": "32",
+        "last_week": "30",
+        "points": "-49.762",
+        "modifier": "0.588",
+        "adjusted_points": "-20.527"
+    }
+]
